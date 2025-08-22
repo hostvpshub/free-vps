@@ -101,7 +101,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Other VPS Providers - [Free VPS](https://gratisvps.net)
 
-Project Link: [https://github.com/your-username/HostVPSHub]([https://github.com/your-username/HostVPSHub](https://github.com/hostvpshub/free-vps/)
+Project Link: https://github.com/hostvpshub/free-vps/tree/main?tab=readme-ov-file
 
 ## Acknowledgements
 
