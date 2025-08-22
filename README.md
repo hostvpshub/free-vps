@@ -101,10 +101,10 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Other VPS Providers - [Free VPS](https://gratisvps.net)
 
-Project Link: [https://github.com/your-username/HostVPSHub](https://github.com/your-username/HostVPSHub)
+Project Link: [https://github.com/your-username/HostVPSHub]([https://github.com/your-username/HostVPSHub](https://github.com/hostvpshub/free-vps/)
 
 ## Acknowledgements
 
-* [Create React App](https://github.com/facebook/create-react-app)
-* [Font Awesome](https://fontawesome.com)
-* [Shields.io](https://shields.io/)
+* [Create React App]([https://github.com/facebook/create-react-app](https://github.com/hostvpshub/free-vps/edit/main/README.md))
+* [Font Awesome]([https://fontawesome.com](https://github.com/hostvpshub/free-vps/edit/main/README.md))
+* [Shields.io]([https://shields.io/](https://github.com/hostvpshub/free-vps/edit/main/README.md))
