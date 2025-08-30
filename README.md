@@ -1,6 +1,6 @@
 # HostVPSHub 🚀
 
-HostVPSHub is an all-in-one, open-source solution for effortlessly managing and deploying Virtual Private Servers. Simplify your infrastructure workflow, from provisioning to monitoring, with our intuitive dashboard.
+HostVPSHub is an all-in-one Free vps, open-source solution for effortlessly managing and deploying Virtual Private Servers. Simplify your infrastructure workflow, from provisioning to monitoring, with our intuitive dashboard.
 
 ## About The Project
 
